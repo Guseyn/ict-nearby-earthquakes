@@ -3,7 +3,7 @@ This program gets list of earthquakes by coordinates (latitude and longitude of 
 
 # Why this example is cool
 
-The main reason that it uses [Cutie](https://github.com/Guseyn/cutie) extensions that basically implement [Async Tree Pattern](https://github.com/Guseyn/async-tree-patern/blob/master/Async_Tree_Patern.pdf).
+The main reason is that it uses [Cutie](https://github.com/Guseyn/cutie) extensions that basically implement [Async Tree Pattern](https://github.com/Guseyn/async-tree-patern/blob/master/Async_Tree_Patern.pdf).
 
 # How to run
 
